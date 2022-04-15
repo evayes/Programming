@@ -14,7 +14,7 @@ __________________________________________________________________
 
 <a href=https://github.com/evayes/Programming/blob/main/lec02%20C%23%20%D0%9E%D0%9E%D0%9F.pdf><b>Лекция 2</b>  "Объектно-ориентированное программирование на C#"</a>
 
-<b>Лекция 3</b>  "Абстрактные классы vs Интерфейсы" + <b>КОНТРОЛЬНАЯ РАБОТА</b>
+<a href=https://github.com/evayes/Programming/blob/main/Interface.pdf><b>Лекция 3</b>  "Абстрактные классы vs Интерфейсы"</a> + <b>КОНТРОЛЬНАЯ РАБОТА</b>
 
 <a href=https://github.com/evayes/Programming/blob/main/SOLID.pdf><b>Лекция 4</b>  "Принципы SOLID на C#"</a>
 
